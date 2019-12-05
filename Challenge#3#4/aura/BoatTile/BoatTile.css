@@ -6,10 +6,6 @@
   padding: 1px !important;
 }
 
-.THIS.tile.selected {
-  border: 3px solid rgb(0, 112, 210);
-}
-
 .THIS.tile .innertile {
   background-size: cover;
   background-position: center;
